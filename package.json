@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "ngx-basic-primitives": "^6.5.1"
+  }
+}
